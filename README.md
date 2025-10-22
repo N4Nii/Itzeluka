@@ -80,7 +80,7 @@ python app.py
 
 ---
 ## IMAGEN
-![Imagen(Cap2/Interfaz.png)]
+![Imagen](Cap2/Interfaz.png)]
 ## Conceptos aplicados
 
 - **Patrón MVC (Modelo-Vista-Controlador)**
